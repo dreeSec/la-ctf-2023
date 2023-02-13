@@ -3,7 +3,7 @@
 This was a great CTF hosted by ACM Cyber and Psi Beta Rho at UCLA (2nd best public university behind umich ofc). My team WolvSec finished in `20th` place out of `980` teams, and solved `35/46` challenges. I'll be going over the 3 `misc` challenges that I solved for our team.
 
 [**misc/hike to where?** [209 solves]](https://github.com/dreeSec/la-ctf-2023/blob/master/LA-CTF-2023.md#mischike-to-where)  
-[**misc/discord l34k** [142 solves]](https://github.com/dreeSec/la-ctf-2023/blob/master/LA-CTF-2023.md#miscdiscord l34k)  
+[**misc/discord l34k** [142 solves]](https://github.com/dreeSec/la-ctf-2023/blob/master/LA-CTF-2023.md#miscdiscord-l34k)  
 [**misc/a hacker's notes** [43 solves]](https://github.com/dreeSec/la-ctf-2023/blob/master/LA-CTF-2023.md#misca-hackers-notes)
 
 # misc/hike to where?
